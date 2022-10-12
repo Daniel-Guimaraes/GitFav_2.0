@@ -56,6 +56,8 @@
 
 # 🎥 Vídeo da aplicação
 
+https://user-images.githubusercontent.com/102679381/195451302-6170dbd0-c051-4309-a027-b9f242753fcd.mp4
+
 <br>
 
 # 🛠 Tecnologias
