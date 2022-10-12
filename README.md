@@ -35,7 +35,7 @@
 
 <br>
 
-<div align="center" style = "display: flex; flex-direction: column; justify-content: center; gap: 15px">
+<div align="center" style = "display: flex; flex-direction: column; justify-content: center; gap: 100px">
   <img alt="Banner do projeto para desktop" title="#GitFav 2.0" src="./assets/banner-desktop.png" width="600px">
   <img alt="Banner do projeto para desktop" title="#GitFav 2.0" src="./assets/banner-desktop2.png" width="600px">
 </div>
@@ -46,7 +46,7 @@
 
 <br>
 
-<div align="center" style = "display: flex; align-items: flex-start; gap: 15px; justify-content: center;">
+<div align="center" style = "display: flex; align-items: flex-start; gap: 100px; justify-content: center;">
   <img alt="Banner do projeto para mobile com o tema claro" title="#GitFav 2.0" src="./assets/banner-mobile.png" width="300px">
  <img alt="Banner do projeto para mobile com o tema claro" title="#SpaUniverse" src="./assets/banner-mobile2.png" width="300px">
 </div>
