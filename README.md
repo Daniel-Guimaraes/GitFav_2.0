@@ -35,7 +35,7 @@
 
 <br>
 
-<div style = "display: flex; flex-direction: column; place-items: center;gap: 15px">
+<div align="center" style = "display: flex; flex-direction: column; justify-content: center; gap: 15px">
   <img alt="Banner do projeto para desktop" title="#GitFav 2.0" src="./assets/banner-desktop.png" width="600px">
   <img alt="Banner do projeto para desktop" title="#GitFav 2.0" src="./assets/banner-desktop2.png" width="600px">
 </div>
@@ -46,7 +46,7 @@
 
 <br>
 
-<div style = "display: flex; align-items: flex-start; gap: 15px; justify-content: center;">
+<div align="center" style = "display: flex; align-items: flex-start; gap: 15px; justify-content: center;">
   <img alt="Banner do projeto para mobile com o tema claro" title="#GitFav 2.0" src="./assets/banner-mobile.png" width="300px">
  <img alt="Banner do projeto para mobile com o tema claro" title="#SpaUniverse" src="./assets/banner-mobile2.png" width="300px">
 </div>
@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/102679381/195451302-6170dbd0-c051-4309
 
 # 🛠 Tecnologias
 
-<div style="display:flex; justify-content: center; gap: 8px"><br/>
+<div align="center" style="display:flex; justify-content: center; gap: 8px"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
